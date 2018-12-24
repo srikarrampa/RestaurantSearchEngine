@@ -25,7 +25,7 @@ Range: range id, range level, range description, range created by, range created
 Restaurant Range Link Table\
 Dish: dish id, dish description\
 Dish Cusine Link Table\
-Dish Restaurant Link Table\
+Dish Restaurant Link Table
 
 
 ### Each package consists of 4 classes
