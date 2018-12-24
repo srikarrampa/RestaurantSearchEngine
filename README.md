@@ -9,23 +9,23 @@
 
 # Tables:
 
-User table: Id , name, user type id
-User types: user ,admin
-User Type Link table
-Cusine: user table id , id name , when was it updated, description, cuisine created date
-Cusine user Link Table
-Restaurant: location, id ,name, update, cusine id, created by, created time
-Restaurant and cusine Link Table
-Restauarnt user Link Table
-Reviews table: review id, reviews description
-Reviews user Link Table
-Ratings table: rating id, ratings description, rating created by, rating created date 
-Restaurant Rating Link Table
-Range: range id, range level, range description, range created by, range created date
-Restaurant Range Link Table
-Dish: dish id, dish description
-Dish Cusine Link Table
-Dish Restaurant Link Table
+User table: Id , name, user type id\
+User types: user ,admin\
+User Type Link table\
+Cusine: user table id , id name , when was it updated, description, cuisine created date\
+Cusine user Link Table\
+Restaurant: location, id ,name, update, cusine id, created by, created time\
+Restaurant and cusine Link Table\
+Restauarnt user Link Table\
+Reviews table: review id, reviews description\
+Reviews user Link Table\
+Ratings table: rating id, ratings description, rating created by, rating created date \
+Restaurant Rating Link Table\
+Range: range id, range level, range description, range created by, range created date\
+Restaurant Range Link Table\
+Dish: dish id, dish description\
+Dish Cusine Link Table\
+Dish Restaurant Link Table\
 
 
 ### Each package consists of 4 classes
