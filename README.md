@@ -2,7 +2,7 @@
 
 ## Tools and Technologies Used
 
-1) Amazon RDS
+1) Amazon Aurora
 2) SpringBoot
 3) Spring Tool Suite
 4) Postman
